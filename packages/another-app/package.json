@@ -1,11 +1,11 @@
 {
-  "name": "new-app",
+  "name": "another-app",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Santiago Carullo <scarullo@elementum.com>",
   "homepage": "https://github.com/santiac89/lerna-test#readme",
   "license": "ISC",
-  "main": "lib/new-app.js",
+  "main": "lib/another-app.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -22,6 +22,5 @@
   },
   "bugs": {
     "url": "https://github.com/santiac89/lerna-test/issues"
-  },
-  "gitHead": "11cc525c99e29edfe3dcf9b38a3ed15c65819d71"
+  }
 }
