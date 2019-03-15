@@ -1,6 +1,6 @@
 {
   "name": "another-app",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "Santiago Carullo <scarullo@elementum.com>",
   "homepage": "https://github.com/santiac89/lerna-test#readme",
@@ -15,7 +15,7 @@
     "lib"
   ],
   "dependencies": {
-    "new-app": "^1.0.3"
+    "new-app": "^1.0.4"
   },
   "repository": {
     "type": "git",
